@@ -12,5 +12,10 @@ add env
   - MONGODB_URL
 
 run command 
-  -To install packages   npm i
-  -To start server   npm run dev    or    npm start
+  -To install packages   
+    npm i
+    
+  -To start server  
+    npm run dev    
+      or 
+    npm start
